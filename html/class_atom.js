@@ -1,0 +1,28 @@
+var class_atom =
+[
+    [ "inConf", "class_atom.html#afb8abf5711e85fa63c0dcf84106e3fb1", null ],
+    [ "inRes", "class_atom.html#ac745947ad39277f6ee26284911627738", null ],
+    [ "isbkb", "class_atom.html#ac13f62bc6f8ba4503f55975ce5bfd716", null ],
+    [ "off", "class_atom.html#a19ab1c51e30525d04b16838effa568ad", null ],
+    [ "on", "class_atom.html#ac20166e9737a43ed1da5760a9e200fb0", null ],
+    [ "read_demetristr", "class_atom.html#af4d2955d33b9882356f09d62afdec226", null ],
+    [ "read_orig_pdbstr", "class_atom.html#a5593944fd1626351280e422dbc6bbefc", null ],
+    [ "read_pdbstr", "class_atom.html#a35d75f3e87254be47cf85209495e6765", null ],
+    [ "switch_off", "class_atom.html#a2595940c46fe64e9952a16c3c759baa6", null ],
+    [ "switch_on", "class_atom.html#a0bb50fef85b0bc28214ffd2390fc2b95", null ],
+    [ "write_pdbstr", "class_atom.html#a61b80c21b1e144644901f3ee8b12318d", null ],
+    [ "Conf", "class_atom.html#abbcc22045cf374dd8310a9cbfdfd41af", null ],
+    [ "Prot", "class_atom.html#ade3408c3254873e8ec3b105eee933f57", null ],
+    [ "Res", "class_atom.html#a8c226034bc80245076ee8892bbc6b88e", null ],
+    [ "atomName", "class_atom.html#a18173d459d19f0930cbdd86686e85070", null ],
+    [ "atomType", "class_atom.html#a70f3cee1c4dedb77eabd3b51bb566d31", null ],
+    [ "bFactor", "class_atom.html#a3d2061cb8df939cc980d13601dca174b", null ],
+    [ "conf", "class_atom.html#a2239bccc4c0ffeabb0f178ba56240c10", null ],
+    [ "crg", "class_atom.html#a0e5e045d20af6db303999101c180d8a7", null ],
+    [ "occ", "class_atom.html#aaafeb21c6bb4002584abb554a2768d6f", null ],
+    [ "prot", "class_atom.html#a1f1b0e05d4055b0fbce8b828283118a9", null ],
+    [ "r", "class_atom.html#a66ee2c1dd9a9f9ee0e64ca7934ba79e1", null ],
+    [ "rad", "class_atom.html#a2ed22cf1dba1b7ea49287ec60394ce5b", null ],
+    [ "vdw_eps", "class_atom.html#a57299fba476501f12954877779051280", null ],
+    [ "vdw_rad", "class_atom.html#a4309a188e990bc7cf0fa3272e2d4a19c", null ]
+];

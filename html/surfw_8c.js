@@ -1,0 +1,28 @@
+var surfw_8c =
+[
+    [ "GRID", "struct_g_r_i_d.html", "struct_g_r_i_d" ],
+    [ "ATOM_RAD", "surfw_8c.html#a98a49d7063533331af133fbb3d5d8e25", null ],
+    [ "FALSE", "surfw_8c.html#aa93f0eb578d23995850d61f7d61c55c1", null ],
+    [ "num_pts", "surfw_8c.html#a53802369da9f87b1ad8607c80656082b", null ],
+    [ "TRUE", "surfw_8c.html#aa8cecfc5c5c054d2875c03e77b7be15d", null ],
+    [ "alloc_3d_array", "surfw_8c.html#a834a6bba564eaf11956400fe9218d596", null ],
+    [ "calc_gsize", "surfw_8c.html#a933d3efdc804b139ccf2de629707ef07", null ],
+    [ "calc_gsize", "surfw_8c.html#a7cd38e91a90311600f63477c52d01f6d", null ],
+    [ "copy_sas", "surfw_8c.html#a618aecacb08d0c87a70336c6ad37717b", null ],
+    [ "extend_grid", "surfw_8c.html#ab37b86841cca465b3da2136cbe9d91dd", null ],
+    [ "fill_grid", "surfw_8c.html#acc4f4ebd1c76dfc67ea153eb2ee4699a", null ],
+    [ "free_3d_array", "surfw_8c.html#abdbb7b6de36e06ebc71c6fac615c36fa", null ],
+    [ "get_pdb_size", "surfw_8c.html#a044a75816ee9166935f7cecaf4b2ef9d", null ],
+    [ "get_sas_res", "surfw_8c.html#a66d4d4c8a2518bf9d15c37763d7f1ca8", null ],
+    [ "insAtomToConf", "surfw_8c.html#af00ec5b6fcf929e9aa023628337e6576", null ],
+    [ "mkacc", "surfw_8c.html#a2fb1d87d6cfbf3e7105c5b9fc117fbc9", null ],
+    [ "reset_atom_rad", "surfw_8c.html#ad2b63094c852bbaa46235057eb4a308b", null ],
+    [ "sas_ionizable", "surfw_8c.html#a14f1999ab60fae28bd895e106c2945b1", null ],
+    [ "sas_native", "surfw_8c.html#a24d19ec722126cb29133b852a26dfe2c", null ],
+    [ "set_vdw_rad", "surfw_8c.html#ae9059547d4e366d182d89ccb332c9648", null ],
+    [ "surfw", "surfw_8c.html#acc64213c3cd0807d4a26a7420064441c", null ],
+    [ "surfw_res", "surfw_8c.html#aa0c30c1d6debd2c72105feb3942d45d4", null ],
+    [ "trim_conf", "surfw_8c.html#a77a861672b150d9a772403626a7e9594", null ],
+    [ "area_coeff", "surfw_8c.html#a3282fc72f1d9a092f8c607efd5ea75bb", null ],
+    [ "point_preset", "surfw_8c.html#a9ffece41c41b1b4272885da56a55fa5b", null ]
+];
